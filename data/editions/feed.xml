@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>The Edge Systems &amp; Micro-SaaS Report</title>
+    <link>https://github.com/MilindChatrabhuji/edge-systems-newsletter</link>
+    <description>Weekly high-signal intelligence for edge architecture, Cloudflare Workers, and open-source bounties.</description>
+    <item>
+      <title>Edition #42: Zero-Cold-Start Micro-SaaS &amp; V8 Isolate Unit Economics</title>
+      <link>https://github.com/MilindChatrabhuji/edge-systems-newsletter</link>
+      <description>Benchmarking Cloudflare Workers KV sliding window rate limiting, Web Crypto HMAC-SHA256 signatures, and $150k in open AI/Web3 developer bounties.</description>
+      <pubDate>Fri, 30 Oct 2026 08:54:40 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
