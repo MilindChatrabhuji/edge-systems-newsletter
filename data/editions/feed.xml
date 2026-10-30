@@ -5,10 +5,16 @@
     <link>https://github.com/MilindChatrabhuji/edge-systems-newsletter</link>
     <description>Weekly high-signal intelligence for edge architecture, Cloudflare Workers, and open-source bounties.</description>
     <item>
+      <title>Edition #43: WASM on V8 Isolates vs. Traditional Microservices &amp; API Governance</title>
+      <link>https://github.com/MilindChatrabhuji/edge-systems-newsletter/blob/master/data/editions/edition_43.md</link>
+      <description>Zero-dependency OpenAPI AST diffing, Telegram Stars (XTR) in-app checkout, and Hugging Face fine-tuning dataset benchmarks.</description>
+      <pubDate>Fri, 30 Oct 2026 10:19:31 GMT</pubDate>
+    </item>
+    <item>
       <title>Edition #42: Zero-Cold-Start Micro-SaaS &amp; V8 Isolate Unit Economics</title>
-      <link>https://github.com/MilindChatrabhuji/edge-systems-newsletter</link>
+      <link>https://github.com/MilindChatrabhuji/edge-systems-newsletter/blob/master/data/editions/edition_42.md</link>
       <description>Benchmarking Cloudflare Workers KV sliding window rate limiting, Web Crypto HMAC-SHA256 signatures, and $150k in open AI/Web3 developer bounties.</description>
-      <pubDate>Fri, 30 Oct 2026 08:54:40 GMT</pubDate>
+      <pubDate>Fri, 30 Oct 2026 10:19:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
